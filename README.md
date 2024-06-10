@@ -1,3 +1,3 @@
 # GA-Tech
-Cyber and Network Security Boot Camp
+Cyber and Network Security
 Project 1 Files
